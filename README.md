@@ -34,9 +34,13 @@ Mi Portafolio
             y este desplegara otra ventana para que dibuje una imagen y el programa sea capaz de identificar la imagen </p>
         </div>
         <div class="project">
-            <h3>Proyecto 5: gestor de tienda de abarrotes</h3>
+            <h3>Proyecto 5: calculadora de bases</h3>
+            <p>Este proyecto esta creado en ensamblador, es una calculadora capaz de realizar conversiones de decimal a binario, octal, hexadecimal y viceversa </p>
+        </div>
+        <div class="project">
+            <h3>Proyecto 6: gestor de tienda de abarrotes</h3>
             <p> Este proyecto esta en preceso, por ahora solo es la interfaz grafica, el proyecto consta de una interfaz para facilitar la venta, gestion de inventario, compra de productos y contactos de provedores, el sistema usara mariadb y python</p>
-
+        
 </body>
 </html>
 
